@@ -6,6 +6,9 @@ I means branch not brunch.Sorry!
 **I want to test Markdown**
 ---
 
-##hello this is a title(level2)!
+## hello this is a title(level2)!
 
 Compare with typora, I'd like to use typora .Hahahah!
+```
+print("12");
+```
